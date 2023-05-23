@@ -18,6 +18,8 @@ exports.allMenu = (role, ucapanWaktu, pushname, mundur, upload, download, ownerN
 Follow ig gw dulu dong🗿
 @bangsmithhh
 
+join link gc bot:https://chat.whatsapp.com/Bw3tV9bi9uuLoPoHcG5pm6
+
 *STATISTICS*
  • Upload : ${upload}
  • Downloads : ${download}
